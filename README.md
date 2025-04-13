@@ -1,2 +1,2 @@
 # caffiend
-A caffeine consumption tracking platform made with React JS, Vite JS, HTML, Javascript, and CSS
+ A coffee tracking app w. React.JS FantaCSS & Firebase
